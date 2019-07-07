@@ -31,8 +31,9 @@ import java.util.List;
 
 
 
-
+//dev lxl ddd
 public class ElasticSearchTest {
+
     RestHighLevelClient client;
 
     @Before
